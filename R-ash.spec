@@ -4,7 +4,7 @@
 #
 Name     : R-ash
 Version  : 1.0.15
-Release  : 42
+Release  : 43
 URL      : https://cran.r-project.org/src/contrib/ash_1.0-15.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ash_1.0-15.tar.gz
 Summary  : David Scott's ASH Routines
